@@ -11,7 +11,7 @@ def fizzbuzz(int)
     puts "FizzBuzz"
   end
 
-  elsif int % 4 == 0 
+  elsif int % 4 == 0
     puts "nil"
-  end 
-end 
+  end
+end
